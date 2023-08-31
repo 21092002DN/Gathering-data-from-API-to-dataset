@@ -1,1 +1,1 @@
-# example
+# EDA 2 Python project
